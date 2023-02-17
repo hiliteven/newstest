@@ -1,6 +1,6 @@
 abstract class AppSetting {
   static const String urlapi = "https://newsapi.org/v2/top-headlines";
-  static const String ApiKey = "API KEY ANDA";
+  static const String ApiKey = "TULIS DI SINI API KEY ANDA";
   static const String noimage = 'assets/images/noimage.png';
   static const String messageError = "Connection lost";
   static const String version = "1.0.0";
